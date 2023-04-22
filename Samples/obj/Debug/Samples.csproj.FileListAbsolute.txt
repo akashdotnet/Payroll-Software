@@ -1,0 +1,104 @@
+E:\Projects\Samples\Samples\bin\Samples.dll
+E:\Projects\Samples\Samples\bin\Samples.pdb
+E:\Projects\Samples\Samples\bin\ITHeart.BL.pdb
+E:\Projects\Samples\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+E:\Projects\Samples\Samples\obj\Debug\Samples.dll
+E:\Projects\Samples\Samples\obj\Debug\Samples.pdb
+E:\Projects\Samples\Samples\bin\Interop.SqlServer.SQLTask.dll
+E:\Projects\Samples\Samples\bin\ITHeart.BL.dll
+E:\Projects\Samples\Samples\bin\System.DataType.dll
+D:\Sample Code\Samples\Samples\bin\Samples.dll
+D:\Sample Code\Samples\Samples\bin\Samples.pdb
+D:\Sample Code\Samples\Samples\bin\Interop.SqlServer.SQLTask.dll
+D:\Sample Code\Samples\Samples\bin\ITHeart.BL.dll
+D:\Sample Code\Samples\Samples\bin\System.DataType.dll
+D:\Sample Code\Samples\Samples\bin\ITHeart.BL.pdb
+D:\Sample Code\Samples\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+D:\Sample Code\Samples\Samples\obj\Debug\Samples.dll
+D:\Sample Code\Samples\Samples\obj\Debug\Samples.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\csc.exe
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\vbc.exe
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\VBCSCompiler.exe
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\Samples.dll.config
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\Samples.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\Samples.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\APIapps.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\Interop.SqlServer.SQLTask.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\ITHeart.BL.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\Newtonsoft.Json.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.DataType.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Net.Http.Formatting.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Http.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Http.WebHost.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Mvc.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Razor.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.WebPages.Razor.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.WebPages.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.WebPages.Deployment.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\APIapps.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\ITHeart.BL.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\Newtonsoft.Json.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Net.Http.Formatting.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Http.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Http.WebHost.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Mvc.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.Razor.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.WebPages.Razor.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.WebPages.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\bin\System.Web.WebPages.Deployment.xml
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\obj\Debug\Samples.dll
+C:\Users\james\Downloads\Samples (2)\Samples\Samples\obj\Debug\Samples.pdb
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\csc.exe
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\System.Collections.Immutable.dll
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\System.Reflection.Metadata.dll
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\vbc.exe
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\VBCSCompiler.exe
+H:\Latest Version Payroll\Samples\Samples\bin\roslyn\VBCSCompiler.exe.config
+H:\Latest Version Payroll\Samples\Samples\bin\Samples.dll.config
+H:\Latest Version Payroll\Samples\Samples\bin\Samples.dll
+H:\Latest Version Payroll\Samples\Samples\bin\Samples.pdb
+H:\Latest Version Payroll\Samples\Samples\bin\APIapps.dll
+H:\Latest Version Payroll\Samples\Samples\bin\Interop.SqlServer.SQLTask.dll
+H:\Latest Version Payroll\Samples\Samples\bin\ITHeart.BL.dll
+H:\Latest Version Payroll\Samples\Samples\bin\Newtonsoft.Json.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.DataType.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Net.Http.Formatting.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Http.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Http.WebHost.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Mvc.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Razor.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.WebPages.Razor.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.WebPages.dll
+H:\Latest Version Payroll\Samples\Samples\bin\Microsoft.Web.Infrastructure.dll
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.WebPages.Deployment.dll
+H:\Latest Version Payroll\Samples\Samples\bin\APIapps.pdb
+H:\Latest Version Payroll\Samples\Samples\bin\ITHeart.BL.pdb
+H:\Latest Version Payroll\Samples\Samples\bin\Newtonsoft.Json.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Net.Http.Formatting.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Http.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Http.WebHost.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Mvc.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.Razor.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.WebPages.Razor.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.WebPages.xml
+H:\Latest Version Payroll\Samples\Samples\bin\System.Web.WebPages.Deployment.xml
+H:\Latest Version Payroll\Samples\Samples\obj\Debug\Samples.csprojResolveAssemblyReference.cache
+H:\Latest Version Payroll\Samples\Samples\obj\Debug\Samples.dll
+H:\Latest Version Payroll\Samples\Samples\obj\Debug\Samples.pdb

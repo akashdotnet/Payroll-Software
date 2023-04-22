@@ -1,0 +1,7 @@
+H:\Latest Version Payroll\Samples\ITHeart.BL\bin\Release\ITHeart.BL.dll
+H:\Latest Version Payroll\Samples\ITHeart.BL\bin\Release\ITHeart.BL.pdb
+H:\Latest Version Payroll\Samples\ITHeart.BL\bin\Release\Interop.SqlServer.SQLTask.dll
+H:\Latest Version Payroll\Samples\ITHeart.BL\bin\Release\System.DataType.dll
+H:\Latest Version Payroll\Samples\ITHeart.BL\obj\Release\ITHeart.BL.csprojResolveAssemblyReference.cache
+H:\Latest Version Payroll\Samples\ITHeart.BL\obj\Release\ITHeart.BL.dll
+H:\Latest Version Payroll\Samples\ITHeart.BL\obj\Release\ITHeart.BL.pdb

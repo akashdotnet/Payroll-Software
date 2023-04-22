@@ -1,0 +1,96 @@
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\csc.exe
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\vbc.exe
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\VBCSCompiler.exe
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\APIapps.dll.config
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\APIapps.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\APIapps.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\ITHeart.BL.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\Newtonsoft.Json.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Net.Http.Formatting.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Cors.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Helpers.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Http.Cors.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Http.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Http.WebHost.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Mvc.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Razor.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Webpages.Deployment.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Webpages.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Webpages.Razor.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.DataType.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\Interop.SqlServer.SQLTask.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\ITHeart.BL.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Net.Http.Formatting.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Http.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Http.Cors.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Razor.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Webpages.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Webpages.Deployment.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Webpages.Razor.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Helpers.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Mvc.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\Newtonsoft.Json.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\bin\System.Web.Http.WebHost.xml
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\obj\Debug\APIapps.csprojResolveAssemblyReference.cache
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\obj\Debug\APIapps.dll
+C:\Users\james\Downloads\Samples (2)\Samples\APIapps\obj\Debug\APIapps.pdb
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\csc.exe
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\System.Collections.Immutable.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\System.Reflection.Metadata.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\vbc.exe
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\VBCSCompiler.exe
+H:\Latest Version Payroll\Samples\APIapps\bin\roslyn\VBCSCompiler.exe.config
+H:\Latest Version Payroll\Samples\APIapps\bin\APIapps.dll.config
+H:\Latest Version Payroll\Samples\APIapps\bin\APIapps.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\APIapps.pdb
+H:\Latest Version Payroll\Samples\APIapps\bin\ITHeart.BL.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\Microsoft.Web.Infrastructure.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\Newtonsoft.Json.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Net.Http.Formatting.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Cors.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Helpers.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Http.Cors.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Http.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Http.WebHost.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Mvc.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Razor.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Webpages.Deployment.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Webpages.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Webpages.Razor.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\System.DataType.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\Interop.SqlServer.SQLTask.dll
+H:\Latest Version Payroll\Samples\APIapps\bin\ITHeart.BL.pdb
+H:\Latest Version Payroll\Samples\APIapps\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Net.Http.Formatting.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Http.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Http.Cors.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Razor.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Webpages.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Webpages.Deployment.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Webpages.Razor.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Helpers.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Mvc.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\Newtonsoft.Json.xml
+H:\Latest Version Payroll\Samples\APIapps\bin\System.Web.Http.WebHost.xml
+H:\Latest Version Payroll\Samples\APIapps\obj\Debug\APIapps.csprojResolveAssemblyReference.cache
+H:\Latest Version Payroll\Samples\APIapps\obj\Debug\APIapps.dll
+H:\Latest Version Payroll\Samples\APIapps\obj\Debug\APIapps.pdb

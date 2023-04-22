@@ -1,0 +1,19 @@
+E:\Projects\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.dll
+E:\Projects\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.pdb
+E:\Projects\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.dll
+E:\Projects\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.pdb
+D:\Sample Code\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.dll
+D:\Sample Code\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.pdb
+D:\Sample Code\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.dll
+D:\Sample Code\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.pdb
+D:\Sample Code\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.csprojResolveAssemblyReference.cache
+C:\Users\james\Downloads\Samples (2)\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.dll
+C:\Users\james\Downloads\Samples (2)\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.dll
+C:\Users\james\Downloads\Samples (2)\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.pdb
+C:\Users\james\Downloads\Samples (2)\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.csprojResolveAssemblyReference.cache
+H:\Latest Version Payroll\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.dll
+H:\Latest Version Payroll\Samples\ITHeart.BL\bin\Debug\ITHeart.BL.pdb
+H:\Latest Version Payroll\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.csprojResolveAssemblyReference.cache
+H:\Latest Version Payroll\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.dll
+H:\Latest Version Payroll\Samples\ITHeart.BL\obj\Debug\ITHeart.BL.pdb

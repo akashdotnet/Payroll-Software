@@ -1,0 +1,1370 @@
+﻿.TDAnchor18PX, .TDAnchor18PX:active, .TDAnchor18PX:visited
+{
+	font-size : 18px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	border: 0pt none transparent;
+	color: #333333;
+	text-decoration: none;
+	cursor: pointer;
+}
+.TDAnchor18PX:hover
+{
+	font-size : 18px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #f0f0f0;
+	border: 1pt solid silver;
+	color: #1155CC;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.TDAnchor14PX, .TDAnchor14PX:active, .TDAnchor14PX:visited
+{
+	font-size : 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	border: 0pt none transparent;
+	color: #333333;
+	text-decoration: none;
+	cursor: pointer;
+}
+.TDAnchor14PX:hover
+{
+	font-size : 14px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #f0f0f0;
+	border: 1pt solid silver;
+	color: #1155CC;
+	text-decoration: none;
+	cursor: pointer;
+}
+
+.TDAnchor, .TDAnchor:active, .TDAnchor:visited
+{
+	font-size : 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	border: 0pt none transparent;
+	color: #333333;
+	text-decoration: none;
+	cursor: pointer;
+}
+.TDAnchor:hover
+{
+	font-size : 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : #f0f0f0;
+	border: 1pt solid silver;
+	color: #1155CC;
+	text-decoration: none;
+	cursor: pointer;
+}
+.TDAnchorColor, .TDAnchorColor:active, .TDAnchorColor:visited
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	border: 0pt none transparent;
+	color: #1155CC;
+	text-decoration: none;
+	cursor: pointer;
+}
+.TDAnchorColor:hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	border: 0pt none transparent;
+	color: #1155CC;
+	text-decoration: underline;
+	cursor: pointer;
+}
+.TDAnchorDisable
+{
+	font-size : 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color : transparent;
+	border: 0pt none transparent;
+	color: Gray;
+	text-decoration: none;
+}
+.FourPX
+{
+	font-size : 4px;
+}
+.Bold
+{
+	font-weight :bold;
+}
+.Italic
+{
+	font-style: italic;
+}
+.OnePX
+{
+	font-size : 1px;
+	background-color:Silver;
+}
+.NinePX
+{
+	font-size : 9px;
+}
+.PX11
+{
+	font-size : 11px;
+}
+.PX12
+{
+	font-size : 12px;
+}
+.PX14
+{
+	font-size : 14px;
+}
+.PX16
+{
+	font-size : 16px;
+}
+.PX18
+{
+	font-size : 18px;
+}
+.FailureText
+{
+	font-size : 11px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:Red;
+	font-weight: bold;
+	white-space: normal;
+}
+.QuestionMsg {
+	color:#333333;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;
+	text-align: justify;
+	white-space: normal;
+}
+.Questions {
+	color:#333333;
+	text-decoration:none;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+}
+.Questions:hover {
+	color:#aa4001;
+	text-decoration:underline;
+	font-size:11px;
+}
+.Questions9Px {
+	color:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:9px;
+}
+.Questions11Px {
+	color:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:11px;
+}
+.Questions12Px {
+	color:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:12px;
+}
+.Questions14Px {
+	color:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:14px;
+}
+.Questions16Px {
+	color:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:16px;
+}
+.Questions18Px {
+	color:#333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+	font-size:18px;
+}
+.DarkText {
+	color:#1155CC;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	text-decoration:none;
+}
+.SmallCaps
+{
+    FONT-VARIANT: small-caps;
+}
+.silver
+{ background-color : #f0f0f0; }
+.silverDark
+{ background-color : #d7d7d7; }
+.silverLight
+{ background-color : #f7f7f7; }
+.silverLighter
+{ background-color : #fBfBfB; }
+.yellow
+{ background-color : #FFFFC2; }
+.yellowDark
+{ background-color : #FFFF99; }
+.blueish
+{ background-color : #DCE6F1; }
+.greenish
+{ background-color : #D8E4BC; }
+.green
+{ background-color : #00FF00; }
+.red
+{ background-color : #FF0000; }
+.Border
+{
+	border: 1pt solid silver;
+}
+.BorderNone
+{
+	border: 0pt none transparent;
+}
+.BorderTop
+{
+	border-top: 1pt solid silver;
+}
+.BorderBottom
+{
+	border-bottom: 1pt solid silver;
+}
+.BorderRight
+{
+	border-right: 1pt solid silver;
+}
+.BorderLeft
+{
+	border-left: 1pt solid silver;
+}
+.BorderLightTop
+{
+	border-top: 1pt solid #fcfcfc;
+}
+.BorderLightBottom
+{
+	border-bottom: 1pt solid #fcfcfc;
+}
+.BorderLightRight
+{
+	border-right: 1pt solid #fcfcfc;
+}
+.BorderLightLeft
+{
+	border-left: 1pt solid #fcfcfc;
+}
+.Red
+{ 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:Red;
+}
+.Green
+{ 
+	color:Green;
+	
+}
+.Black
+{
+    color :#000000;
+    font-size : 14px;
+}
+.Dark
+{ 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#5082CE;/* #EAA200; */
+    font-weight :bold;
+	 
+	color:#FFFFFF; 
+	font-size:12px; 
+	text-decoration:none;
+    Font-Variant:small-caps;
+	border :1px solid #1155CC;
+    padding-bottom : 2px;
+    border-spacing : 0px;
+    padding-left :0px;
+    padding-right : 0px;
+}
+.Dark14px
+{ 
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#5082CE;/* #EAA200; */
+    font-weight :bold;
+	 
+	color:#FFFFFF; 
+	font-size:14px; 
+	text-decoration:none;
+    Font-Variant:small-caps;
+	border :1px solid #1155CC;
+    padding-bottom : 2px;
+    border-spacing : 0px;
+    padding-left :0px;
+    padding-right : 0px;
+}
+.BorderDark
+{
+	border: 1pt solid #1155CC;
+}
+.BorderTopDark
+{
+	border-top: 1pt solid #1155CC;
+}
+.BorderBottomDark
+{
+	border-bottom: 1pt solid #1155CC;
+}
+.BorderRightDark
+{
+	border-right: 1pt solid #1155CC;
+}
+.BorderLeftDark
+{
+	border-left: 1pt solid #1155CC;
+}
+.ButtonSubmit
+{
+    color: #000000;
+    border: 0pt none silver;
+    background-color: #f0f0f0;
+}
+
+.chkPrompt
+{
+  font-family :Verdana;
+  font-size : 11px;
+  font-weight :bold;
+ 
+}
+.AnchorColor
+{
+  background-color:Transparent;
+  color :#1155CC;
+  font-family :Verdana;
+  font-size : 11px;
+  text-decoration :none;
+}
+
+.tblBg
+{
+	background-color: #F5F5F5;
+	vertical-align: bottom;
+	border-color: #999;
+	border-style: solid;
+	border-width: 1px;
+}
+.GroupHead
+{    
+	background-color: #E6E6E6;
+	color:#000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+}
+.TopNavigationLinksBg
+{    
+	background-color:#F5F5F5;
+	color:#FFFFFF;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+}
+.NewsBar
+{    
+	background-color:#E6E6E6;
+	color:#000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	 border-bottom-color :Black ;
+	 border-bottom-width : 1px;
+	 border-bottom-style : solid ;
+}
+
+.Footer
+{    
+	background-color:#E6E6E6;
+	color:#000000;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 9px;
+	font-weight: bold;
+	border-top-color :Black ;
+	border-top-width : thin ;
+    border-top-style :solid ;
+   
+    padding-top : 2px;
+    padding-bottom :2px;
+	/*
+	  padding : 2px;
+     border-bottom-color :Black ;
+	 border-bottom-width : 1px;
+	 border-bottom-style : solid ;*/
+}
+
+
+.AHref
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:Transparent;
+	font-weight:bold; 
+	color:#000000; 
+	font-size:12px;
+	text-decoration :none; 
+	padding-top :1px;
+	padding-bottom : 1px;
+	
+}
+
+.AHref:hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:Transparent;
+	font-weight:bold; 
+	color:#000000; 
+	font-size:12px; 
+	text-decoration : none; 
+	padding-top :1px;
+	padding-bottom : 1px;
+	
+}
+
+
+.tblReportBg
+{
+   	background-color: White;
+	vertical-align: bottom;
+	border-color: Black;
+	border-style: solid;
+	border-width: 1px;
+}
+
+.tblReportHeader
+{	background:White; 
+ 	color:Black ;
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	white-space :nowrap ;
+	font-weight: bold;
+ 	border-right-style:solid;
+ 	border-right-width:1px;
+ 	border-bottom-style:solid;
+ 	border-bottom-width:1px;
+}
+
+.tblReportDetail
+{	background:White; 
+ 	color:Black ;
+  	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+ 	border-right-style:solid;
+ 	border-right-width:1px;
+ 	border-bottom-style:solid;
+ 	border-bottom-width:1px;
+}
+.tblReportGroupL1
+{	background:White; 
+ 	color:Black ;
+ 	font-family:Verdana, Arial, Helvetica, sans-serif;
+ 	font-size: 12px;
+	text-indent : 10px;
+	font-weight: normal;
+ 	border-right-style:solid;
+ 	border-right-width:1px;
+ 	border-bottom-style:solid;
+ 	border-bottom-width:1px;
+ 	
+}
+.tblReportGroupL2
+{	background:White; 
+ 	color:Black ;
+ 	font-family:Helvetica;
+ 	text-indent : 20px;
+	font-size: 12px;
+	font-weight: normal;
+ 	border-right-style:solid;
+ 	border-right-width:1px;
+ 	border-bottom-style:solid;
+ 	border-bottom-width:1px;
+}
+.tblReportGroupL3
+{ background:White; 
+ 	color:Black ;
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+ 	text-indent : 30px;
+	font-size: 12px;
+	font-weight: normal;
+ 	border-right-style:solid;
+ 	border-right-width:1px;
+ 	
+}
+
+.tblReportGroupL4
+{	background:White; 
+ 	color:Black ;
+ 	font-family: Verdana, Arial, Helvetica, sans-serif;
+ 	text-indent : 40px;
+ 	font-size: 12px;
+	font-weight: normal;
+ 	border-right-style:solid;
+ 	border-right-width:1px;
+ 	
+}
+
+.ATblHref
+{
+	font-weight:normal; 
+	color:#000000; 
+	background-color:Transparent;
+}
+
+.AddtoCart
+{
+	display:inline;
+	font-size:20px;
+	font-family: Verdana;
+	word-spacing:1px;
+}
+
+
+
+
+
+.NormalJutify 
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	color:#000000;
+	text-decoration:none;
+	font-size:11px;
+	text-align:justify
+}
+.justify {
+	text-align:justify;
+}
+
+
+.Button55
+{
+	border-right: 0px;
+	background-position: center;
+	border-top: #666666 0px;
+	font-weight: bold;
+	font-size: 11px;
+    background-image: url(../../images/blank_65.gif);
+	cursor: hand;
+	border-left: #666666 0px;
+	color: black;
+	border-bottom: #000000 0px;
+	width: 65px;
+	height: 19px;
+	background-repeat: no-repeat;
+	font-family: Arial;
+	background-color: transparent;
+}
+
+.Button55:hover
+{
+	border-right: 0px;
+	background-position: center;
+	border-top: #666666 0px;
+	font-weight: bold;
+	font-size: 11px;
+    background-image: url(../../images/blank_65_mo.gif);
+	cursor: hand;
+	border-left: #666666 0px;
+	color: black;
+	border-bottom: #000000 0px;
+	width: 65px;
+	height: 19px;
+	background-repeat: no-repeat;
+	font-family: Arial;
+	background-color: transparent;
+}
+
+.Button95
+{
+	border-right: 0px;
+	background-position: center;
+	border-top: #666666 0px;
+	font-weight: bold;
+	font-size: 11px;
+    background-image: url(../../images/blank_95.gif);
+	cursor: hand;
+	border-left: #666666 0px;
+	color: black;
+	border-bottom: #000000 0px;
+	width: 95px;
+	height: 19px;
+	background-repeat: no-repeat;
+	font-family: Arial;
+	background-color: transparent;
+}
+
+.Button95:hover
+{
+	border-right: 0px;
+	background-position: center;
+	border-top: #666666 0px;
+	font-weight: bold;
+	font-size: 11px;
+    background-image: url(../../images/blank_95_mo.gif);
+	cursor: hand;
+	border-left: #666666 0px;
+	color: black;
+	border-bottom: #000000 0px;
+	width: 95px;
+	height: 19px;
+	background-repeat: no-repeat;
+	font-family: Arial;
+	background-color: transparent;
+}
+
+/* Report Related Formating */
+.tblReportHeader-
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :12px;
+	font-weight: bold; 
+	background-color :#D3D3D3;
+	white-space :nowrap;
+	border-style :solid ;
+	border-width : 1px;
+	border-color :Black ;
+   
+}
+
+.tblReportHeaderWrap-
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :12px;
+	font-weight: bold; 
+	background-color :#D3D3D3;
+	/*white-space :nowrap;*/
+	border-style :solid ;
+	border-width : 1px;
+	border-color :Black ;
+   
+}
+
+.tblReportData
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight:normal; 
+	text-decoration: none;
+	white-space :nowrap;
+}
+.tblReportDataGray
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight:normal; 
+	text-decoration: none;
+	color : #808080;
+	white-space :nowrap;
+}
+
+.tblReportDataWrap
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight:normal; 
+	text-decoration: none;
+	/*white-space :nowrap;*/
+}
+.tblReportDataL0
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :10px;
+	font-weight: normal; 
+	white-space :nowrap;
+    border-style :solid;
+	border-width : 1px;
+	border-color :Black ;
+	background-color:Yellow;
+	color:Red;
+	font-weight:bold;
+	
+}
+.tblReportDataL2
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :13px; /*10px*/
+	font-weight: normal; 
+	white-space :nowrap;
+    border-style :solid;
+	border-width : 1px;
+	border-color :Black ;
+	background-color:#FFF3C3; /*Yellow;*/
+	color:Blue;
+	font-weight:bold;
+	
+}
+.tblReportGroupTotal
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight: bold; 
+	background-color :#D3D3D3;
+	color:#292421;
+	white-space :nowrap ;
+	border-style :solid;
+	border-width : 1px;
+	border-color :Black;
+	
+	
+   
+}
+
+.ReportAHref
+{
+	
+	font-size :9px;
+	white-space :nowrap;
+	background-color:Transparent;
+   	
+}
+
+.ReportAHref2, .ReportAHref2:active, .ReportAHref2:visited
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :8px;
+	background-color:Transparent;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+   	
+}
+.ReportAHref2:hover
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :8px;
+	background-color:Transparent;
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:underline;
+   	
+}
+
+.tblReportHeaderControlHdr
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :12px;
+	font-weight: bold; 
+	white-space :nowrap ;
+	color : Black ;
+
+}
+
+.tblReportHeaderControlData
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight: bold; 
+	white-space :nowrap ;
+	color : Black;
+	
+   
+}
+.CaptionHdr
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight:normal; 
+	white-space :nowrap ;
+	color : Black;
+	background-color:Transparent;
+	
+}
+
+.SelectionControls
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight:normal; 
+	/*white-space :nowrap ;*/
+	color : Gray;
+	background-color:Transparent;
+	text-decoration :none; 
+	
+}
+
+.txtControls
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight:normal; 
+	white-space :nowrap ;
+	color : Black;
+	background-color:Transparent;
+	
+}
+
+/*------------------- For ToolBar         ---------------*/
+.AHrefReport
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#E6E6E6;
+	font-weight:normal; 
+	color:#000000; 
+	font-size:11px; 
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	
+}
+
+
+.AHrefReport:hover,.AHrefReport:active
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	background-color:#E6E6E6;
+	font-weight:normal;
+	font-style:normal;
+	color:#000000; 
+	text-decoration:underline;
+   	
+}
+.AGridCells
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	background-color:#E6E6E6;
+	font-weight:normal;
+	font-style:normal;
+	color:#000000; 
+	text-decoration:none;
+   	
+}
+.ExpanderReport
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#E6E6E6;
+	font-weight:bold; 
+	font-style:normal ;
+	color:#000000; 
+	font-size:11px; 
+	text-decoration:none;
+	text-align :left ;
+	
+}
+
+.AHrefLine
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#E6E6E6;
+	font-weight:bold; 
+	color:#000000; 
+	font-size:11px; 
+	text-decoration:none;
+	border-bottom-color :Silver;
+	border-bottom-style :solid ;
+	border-bottom-width : thin ;
+    padding-bottom : 2px;
+	
+}
+.tdRightLine
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#E6E6E6;
+	font-weight:bold; 
+	color:#000000; 
+     
+	text-decoration:none;
+	border-right-color :Black ;
+	border-bottom-style :solid ;
+	border-right-width :1px;
+	
+	
+}
+
+
+
+/* Report Related Formating */
+
+
+/* Compliance Mantra */
+
+.tblBgGray
+{   
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color :#D8D8D8;
+	color:#FFFFFF; 
+	font-size : 12px;
+	  
+}
+
+.bgGray
+{
+	background-color :#E6E6E6;
+}
+.bgGreen
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#1155CC;/* #EAA200; */
+    font-weight :bold;
+	 
+	color:#FFFFFF; 
+	font-size:12px; 
+	text-decoration:none;
+			
+	border :1px solid #1155CC;
+    padding-bottom : 2px;
+    border-spacing : 0px;
+    padding-left :0px;
+    padding-right : 0px;
+}
+
+.AHrefComplianceReport
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:#5882FA;
+	font-weight:bold; 
+	color:#FFFFFF;  
+	font-size:12px; 
+	font-weight:normal;
+	font-style:normal;
+	text-decoration:none;
+	
+}
+
+.tblComplianceHeader
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight: bold; 
+	white-space :nowrap;
+    border-style :solid;
+	border-width : 1px;
+	border-color :Black ;
+	background-color: transparent; /*#FFF3C3; Yellow;*/
+	color:#585858;
+}
+
+.tdHeader
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :12px;
+	font-weight: bold; 
+	white-space :nowrap;
+   	background-color: #F5F6CE; /*#FFF3C3; Yellow;*/
+	color:Black;
+}
+
+
+.BorderGreenLeftRightBottom
+{
+	border-color :#4A5D0B;
+	border-bottom :1px solid #4A5D0B;
+	border-left :1px solid #4A5D0B;
+	border-right :1px solid #4A5D0B;
+		
+	/*style="border-color :#4A5D0B; border-width :1px; border-style :solid ;*/
+	
+	
+}
+
+.BorderAllGreen
+{
+	border-top :1px solid #4A5D0B;
+	border-bottom :1px solid #4A5D0B;
+	border-left :1px solid #4A5D0B;
+	border-right :1px solid #4A5D0B;
+		
+
+	
+}
+
+.borderLightGray
+{
+	border-top :1px solid #E6E6E6;
+	border-bottom :1px solid #E6E6E6;
+	border-left :1px solid #E6E6E6;
+	border-right :1px solid #E6E6E6;
+		
+	
+	
+}
+
+.ComplianceCaptionHdr
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :11px;
+	font-weight:normal; 
+	white-space :nowrap ;
+	color : Gray; /*Black;*/
+	background-color:Transparent;
+	
+}
+
+
+.lblMeg
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :smaller;
+	font-weight:normal; 
+	white-space :nowrap ;
+	color : Red; /*Black;*/
+	background-color:Transparent;
+	
+}
+
+.BorderGreenTop
+{
+	border-top :1px solid #4A5D0B;
+		
+}
+
+.BorderGreenRight
+{
+	border-right :1px solid #4A5D0B;
+		
+}
+
+.BorderSilver
+{	
+	border-style :solid;
+	border-width :1px;
+	border-color :Silver;
+		
+}
+
+.FontBold
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size :smaller;
+	font-weight:bold; 
+	white-space :nowrap;
+	text-align :left;
+	color :Black;
+	
+}
+
+
+.tab
+{
+		
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	background-color:Transparent;
+    font-weight :bold;
+	color:#FFFFFF; 
+	font-size:14px; 
+	text-decoration:none;
+    border :0px none #1155CC;
+    border-spacing : 0px;
+    padding-left :0px;
+    padding-right : 0px;
+	
+      
+	
+}
+
+/* ------ Password Strength -----------------------*/
+.TextIndicator_Strength_Poor
+{	
+     background-color: silver;
+     color: white;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     font-style: italic;
+     padding: 2px 3px 2px 3px;
+     font-weight: bold;
+}
+.TextIndicator_Strength_Weak
+{
+     background-color: silver;
+     color: Yellow;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     font-style:italic;
+     padding: 2px 3px 2px 3px;
+     font-weight:bold;
+}
+.TextIndicator_Strength_Average
+{
+     background-color: silver;
+     color: #FFCAAF;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     font-style:italic;
+     padding: 2px 3px 2px 3px;
+     font-weight:bold;
+}
+.TextIndicator_Strength_Strong
+{
+     background-color: silver;
+     color: Aqua;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     font-style:italic;
+     padding: 2px 3px 2px 3px;
+     font-weight:bold;
+}
+.TextIndicator_Strength_Excellent
+{
+     background-color: silver;
+     color: #1155CC;
+     font-family: Verdana, Arial, Helvetica, sans-serif;
+     font-size: 12px;
+     font-style:italic;
+     padding: 2px 3px 2px 3px;
+     font-weight:bold;
+}
+.TextIndicator_TextBox3
+{
+     background-color:Blue;
+     color:Yellow;
+     font-size:small;
+     font-variant:small-caps;
+     padding: 2px 3px 2px 3px;
+     
+}
+
+.TextIndicator_Strength_Handle
+{
+	width: 16px;
+	height:20px;
+	padding: 2px 3px 2px 3px;
+	background-image:url(images/Question.png);
+	overflow: hidden;
+	cursor: help;
+	vertical-align: middle;
+	position:absolute;
+	left: 20px;  
+}
+/* ------ Password Strength -----------------------*/
+/*End of Compliance Mantra */
+.C1ProgressBar_GreenLabel
+{
+	position: absolute;
+	overflow: hidden;
+	background-image: none;
+	background-color: #008000;
+}
+        
+.firstname {
+    padding:7px;
+    display:block;
+}
+        
+.lastname {
+    padding:7px;
+    display:block;
+}
+        
+.ieb {
+    padding:7px;
+}
+        
+.hover {
+    padding:4px;
+    border:1px solid #008000;
+    background:;
+}
+        
+.textbox {
+        }
+
+
+	.TESTcpYearNavigation,
+
+	.TESTcpMonthNavigation
+
+			{
+
+			background-color:#6677DD;
+
+			text-align:center;
+
+			vertical-align:middle;
+
+			text-decoration:none;
+
+			color:#FFFFFF;
+
+			font-weight:bold;
+
+			}
+
+	.TESTcpDayColumnHeader,
+
+	.TESTcpYearNavigation,
+
+	.TESTcpMonthNavigation,
+
+	.TESTcpCurrentMonthDate,
+
+	.TESTcpCurrentMonthDateDisabled,
+
+	.TESTcpOtherMonthDate,
+
+	.TESTcpOtherMonthDateDisabled,
+
+	.TESTcpCurrentDate,
+
+	.TESTcpCurrentDateDisabled,
+
+	.TESTcpTodayText,
+
+	.TESTcpTodayTextDisabled,
+
+	.TESTcpText
+
+			{
+
+			font-family:arial;
+
+			font-size:8pt;
+
+			}
+
+	TD.TESTcpDayColumnHeader
+
+			{
+
+			text-align:right;
+
+			border:solid thin #6677DD;
+
+			border-width:0 0 1 0;
+
+			}
+
+	.TESTcpCurrentMonthDate,
+
+	.TESTcpOtherMonthDate,
+
+	.TESTcpCurrentDate
+
+			{
+
+			text-align:right;
+
+			text-decoration:none;
+
+			}
+
+	.TESTcpCurrentMonthDateDisabled,
+
+	.TESTcpOtherMonthDateDisabled,
+
+	.TESTcpCurrentDateDisabled
+
+			{
+
+			color:#D0D0D0;
+
+			text-align:right;
+
+			text-decoration:line-through;
+
+			}
+
+	.TESTcpCurrentMonthDate
+
+			{
+
+			color:#6677DD;
+
+			font-weight:bold;
+
+			}
+
+	.TESTcpCurrentDate
+
+			{
+
+			color: #FFFFFF;
+
+			font-weight:bold;
+
+			}
+
+	.TESTcpOtherMonthDate
+
+			{
+
+			color:#808080;
+
+			}
+
+	TD.TESTcpCurrentDate
+
+			{
+
+			color:#FFFFFF;
+
+			background-color: #6677DD;
+
+			border-width:1;
+
+			border:solid thin #000000;
+
+			}
+
+	TD.TESTcpCurrentDateDisabled
+
+			{
+
+			border-width:1;
+
+			border:solid thin #FFAAAA;
+
+			}
+
+	TD.TESTcpTodayText,
+
+	TD.TESTcpTodayTextDisabled
+
+			{
+
+			border:solid thin #6677DD;
+
+			border-width:1 0 0 0;
+
+			}
+
+	A.TESTcpTodayText,
+
+	SPAN.TESTcpTodayTextDisabled
+
+			{
+
+			height:20px;
+
+			}
+
+	A.TESTcpTodayText
+
+			{
+
+			color:#6677DD;
+
+			font-weight:bold;
+
+			}
+
+	SPAN.TESTcpTodayTextDisabled
+
+			{
+
+			color:#D0D0D0;
+
+			}
+
+	.TESTcpBorder
+
+			{
+
+			border:solid thin #6677DD;
+
+			}
+
+        
+ 
